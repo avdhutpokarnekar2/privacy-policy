@@ -9,11 +9,10 @@ We collect personal data that is necessary to deliver and improve our services:
 
 Account & Profile Data: Name, email address, phone number, delivery address, and login credentials created when you register.
 
-Order & Transaction Data: Order history, items purchased, delivery preferences, and payment verification IDs. (Payment details such as UPI IDs, credit, or debit cards are handled securely by third-party payment gateways; we do not store full card details).
+Order & Transaction Data: Order history, items purchased, delivery preferences, and payment verification photo.
 
 Technical & Usage Data: Device IP address, operating system, unique device identifiers, app usage statistics, and log files.
 
-Location Data: Coarse or precise geolocation data (collected with your consent) to calculate delivery fees, find nearby outlets, and assign delivery partners.
 
 2. How We Use Your Information
 We process your personal data based on your consent and for lawful purposes, including:
@@ -29,13 +28,11 @@ App Improvement: To monitor server performance, diagnose bugs, and improve overa
 Legal & Security Obligations: To detect, prevent, and respond to fraud, unauthorized activity, or legal compliance demands.
 
 3. Data Sharing and Third Parties
-We do not sell your personal information. We share data only with trusted third-party service providers bound by strict confidentiality agreements:
+We do not sell your personal information.
 
 Delivery Partners: Sharing your delivery address and contact details to complete order fulfillments.
 
-Payment Gateways: Processing payment requests through authorized payment aggregators (e.g., Razorpay, Cashfree, Paytm).
-
-Cloud Infrastructure: Hosting our servers and databases securely on cloud providers (e.g., AWS / Google Cloud).
+Cloud Infrastructure: Hosting our servers and databases securely on cloud providers AWS.
 
 Legal Authorities: Disclosing information if mandated by law enforcement or regulatory authorities under statutory obligations.
 
@@ -66,8 +63,8 @@ We may update this Privacy Policy periodically to reflect operational, legal, or
 8. Contact & Grievance Redressal
 If you have questions, concerns, or wish to exercise any of your privacy rights, please contact our designated Grievance Officer:
 
-Name: Avdhut Pokarnekar
+Title : City Chicken
 
-Email: apokarnekar@gmail.com
+Email : apokarnekar@gmail.com
 
 Address: Parite, Karvir, Dist. Kolhapur, Maharashtra, India
