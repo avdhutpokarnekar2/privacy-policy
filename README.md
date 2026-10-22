@@ -1,4 +1,5 @@
 Privacy Policy for City Chicken
+
 Last Updated: October 22, 2026
 
 Welcome to City Chicken . We are committed to protecting your personal data and respecting your privacy. This Privacy Policy explains how we collect, use, store, share, and protect your personal information when you use the City Chicken mobile application and related services.
